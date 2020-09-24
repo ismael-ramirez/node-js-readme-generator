@@ -19,7 +19,7 @@
   # License
   Apache
   # Contributors
-  Myself. 
+  Myself. (Received starter code from Xandromus).
   # Tests
   None.
   # Questions
