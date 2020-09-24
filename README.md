@@ -2,8 +2,8 @@
   # Project Description
   Generator that generates high quality readme files.
   # Link to Walkthrough Video
-  https://drive.google.com/file/d/1zP_2LTEMulwaiyiFR6Fkzsn-iUIn_Qbd/view - node-js-readme-generator!
-  [GitHub](http://github.com)
+  https://drive.google.com/file/d/1zP_2LTEMulwaiyiFR6Fkzsn-iUIn_Qbd/view - Link to demo!
+  
   # Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
@@ -19,7 +19,7 @@
   # License
   Apache
   # Contributors
-  Myself.
+  Myself. 
   # Tests
   None.
   # Questions
