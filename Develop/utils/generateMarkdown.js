@@ -22,7 +22,7 @@ function generateMarkdown(data) {
   # Tests
   ${data.tests}
   # Questions
-  If you have any further questions feel free to contact me on Github ${data.github} or email me at ${data.email}!
+  Any questions contact on Github ${data.github} or email at ${data.email}.
 `;
 }
 

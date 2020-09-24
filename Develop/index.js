@@ -7,12 +7,12 @@ const generateMarkdown = require('./utils/generateMarkdown');
 const questions = [
         {
             type: 'input',
-            message: 'What is the name of your project?',
+            message: 'What is the title of your project?',
             name: 'title'
         },
         {
             type: 'input',
-            message: 'Enter a short description of your project.',
+            message: 'Enter a description of the project.',
             name: 'description'
         },
         {
@@ -22,12 +22,12 @@ const questions = [
         },
         {
             type: 'input',
-            message: 'How do you use this application?',
+            message: 'How do you use the application?',
             name: 'usage'
         },
         {
             type: "checkbox",
-            message: 'Select your license.',
+            message: 'Select license.',
             name: 'license',
             choices: [
                 "Apache",
@@ -48,12 +48,12 @@ const questions = [
         },
         {
             type: 'input',
-            message: 'What is your github username?',
+            message: 'Enter your github username.',
             name: 'github'
         },
         {
             type: 'input',
-            message: 'What is your email?',
+            message: 'Enter your email.',
             name: 'email'
         }
     
