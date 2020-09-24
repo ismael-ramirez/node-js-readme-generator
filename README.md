@@ -1,6 +1,9 @@
 # **Professional README Generator.**                 [![License](https://img.shields.io/badge/License-Apache-blue.svg)](https://opensource.org/licenses/Apache)
   # Project Description
   Generator that generates high quality readme files.
+  # Link to Walkthrough Video
+  https://drive.google.com/file/d/1zP_2LTEMulwaiyiFR6Fkzsn-iUIn_Qbd/view - node-js-readme-generator!
+  [GitHub](http://github.com)
   # Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
